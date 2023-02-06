@@ -1,6 +1,9 @@
 ### Hi there 👋
-
-- 🔭 I'm currently work on game development on unity for 2 years.
-- 🌱 I’m currently learning pentesting and bugbounty
-- 🤔 I’m looking for help with any scybersecurity problems.
-- 📫 You can reach me with : furkanpartnerlik@hotmail.com
+💻 I am Furkan Şen, a computer engineering student
+💻 I am passionate about coding and programming projects
+📁 My Github profile showcases my programming experiences and skills
+🔬 My areas of interest include:
+💻 Data structures and algorithms
+🌐 Web development
+🚀 Continuously improving and learning new technologies
+🤝 Here for collaborations and exchange of ideas 💡
